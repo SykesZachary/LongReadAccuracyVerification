@@ -11,9 +11,7 @@ The python scripts also require the packages:
 [pysam](https://pysam.readthedocs.io/en/latest/index.html)
 [biopython](https://biopython.org/)
 
-#####################
-### VERY IMPOTANT ###
-#####################
 
+### VERY IMPOTANT ###
 The shell scripts wrapped in the python will not work on Windows. 
 So this can only work on Linux or Mac.
