@@ -6,8 +6,8 @@ Requirements:
 The experiment within this repository requires the following:
 [sra-toolkit](https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit), 
 [samtools](https://github.com/samtools/samtools), 
-[bowtie](http://bowtie-bio.sourceforge.net/tutorial.shtml)
-[bowtie 2](http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml)
+[bowtie](http://bowtie-bio.sourceforge.net/tutorial.shtml), 
+[bowtie 2](http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml), 
 and [bwa](http://bio-bwa.sourceforge.net/bwa.shtml)
 
 The python scripts also require the packages:
