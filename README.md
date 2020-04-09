@@ -15,15 +15,16 @@ The python scripts also require the packages:
 [biopython](https://biopython.org/), 
 and [pandas](https://pandas.pydata.org/) for the final data output
 
-
-### VERY IMPOTANT ###
-The shell scripts wrapped in the python will not work on Windows. 
-So this can only work on Linux or Mac.
-
 ### REFERENCE GENOMES ###
 Be sure to [download](http://igenomes.illumina.com.s3-website-us-east-1.amazonaws.com/Homo_sapiens/NCBI/GRCh38/Homo_sapiens_NCBI_GRCh38.tar.gz) and install reference genomes for the alignment software.
 Unzip the files into the /Ref_Genomes directory pulled with the repository.
 From there pull the corresponding folder into the corresponding alignment algorithm directory containing the shell script for alignment.
 
-## DO NOT FORGET TO INDEX THE REFERENCE GENOME ##
-## MAKE SURE YOU UPDATE THE PATHS IN THE SCRIPTS TO REFLECT YOUR MACHINE ##
+DO NOT FORGET TO INDEX THE REFERENCE GENOMES ACCORDING TO THE SOFTWARE DOCUMENTATION
+
+## VERY IMPOTANT ##
+The shell scripts wrapped in the python will not work on Windows. 
+So this can only work on Linux or Mac.
+
+BE SURE TO UPDATE THE PATHs IN THE SCRIPTS TO MATCH YOUR MACHINE
+
