@@ -22,7 +22,7 @@ From there pull the corresponding folder into the corresponding alignment algori
 
 DO NOT FORGET TO INDEX THE REFERENCE GENOMES ACCORDING TO THE SOFTWARE DOCUMENTATION
 
-## VERY IMPOTANT ##
+### VERY IMPOTANT ###
 The shell scripts wrapped in the python will not work on Windows. 
 So this can only work on Linux or Mac.
 
